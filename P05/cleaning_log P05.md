@@ -1,9 +1,9 @@
 # Cleaning Log
 
-**Tim:** [isi nama tim]
+**Tim:** Nunaaaaa
 **Dataset:** transaksi_koperasi_2025.csv
 **Baris mentah:** 1543 → **baris bersih:** 1493
-**Terakhir diperbarui:** 2025-11-10 (tanggal pengerjaan: 10 November 2026)
+**Terakhir diperbarui:** 2025-11-10 (tanggal pengerjaan: 19 Oktober 2026)
 
 ---
 
